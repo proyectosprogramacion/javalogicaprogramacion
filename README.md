@@ -17,3 +17,15 @@ Este es un repositorio con ejercicios de programación básica, para desarollar 
 #### Objetivos
 * Arrays
 * Clase Random
+
+
+
+
+## Hoja de ejercicios 32_41
+
+#### Objetivos
+* Arrays
+* Matrices
+* Menús switch-case
+* Clase String
+
