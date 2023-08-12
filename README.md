@@ -19,9 +19,8 @@ Este es un repositorio con ejercicios de programación básica, para desarollar 
 * Clase Random
 
 
-
-
 ## Hoja de ejercicios 32_41
+
 
 #### Objetivos
 * Arrays
@@ -29,3 +28,18 @@ Este es un repositorio con ejercicios de programación básica, para desarollar 
 * Menús switch-case
 * Clase String
 
+
+## Hoja de ejercicios 42_51
+
+
+#### Objetivos
+* Clase String
+* Argumentos de ejecución (String[] args)
+
+
+## Hoja de ejercicios de repaso
+
+
+#### Objetivos
+* Array de contadores
+* Arrays bidimensionales
